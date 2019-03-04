@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  XLUITableViewCellHeightDemo
+//
+//  Created by Mac-Qke on 2019/3/4.
+//  Copyright © 2019 Mac-Qke. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "BaseViewController.h"
+
+#endif /* PrefixHeader_pch */
